@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1589678899,
+      "filename": "signed-ota_update.zip",
+      "id": "0dadaa8e2e5b604715c9b2fda4baa83f",
+      "romtype": "unofficial",
+      "size": 672628736
+      "url": "https://github.com/kisekinopureya/lineage-ota/releases/download/20200517/signed-ota_update.zip",
+      "version": "16.0"
+    }
+  ]
+}
